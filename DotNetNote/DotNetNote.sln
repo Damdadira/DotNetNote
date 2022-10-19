@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetNote", "DotNetNote\DotNetNote.csproj", "{F3F8CB0D-D9CD-405E-8340-8A8DD1710B28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3F8CB0D-D9CD-405E-8340-8A8DD1710B28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3F8CB0D-D9CD-405E-8340-8A8DD1710B28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3F8CB0D-D9CD-405E-8340-8A8DD1710B28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3F8CB0D-D9CD-405E-8340-8A8DD1710B28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C68F9866-B78E-469A-9A53-11D418D6D94E}
+	EndGlobalSection
+EndGlobal
